@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861318364938",
+    "project_id": "anujatomassignment",
+    "storage_bucket": "anujatomassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861318364938:android:43dbfb29f1fa0d9e6284f3",
+        "android_client_info": {
+          "package_name": "com.example.anujatomassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861318364938-dsj2snfdraabsf0jaano2m78157mojei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYjDZaXoAHP9g0tUuph3qX-3qAy5W_nrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861318364938-dsj2snfdraabsf0jaano2m78157mojei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AnujAtomAssignment</string>
+    <string name="welcome">Welcome</string>
+<!--    <string name="default_web_client_id">    861318364938-dsj2snfdraabsf0jaano2m78157mojei.apps.googleusercontent.com</string>-->
+    <string name="login_policy_text">By creating an account you agree to our<b><u> Terms of Service</u></b> &amp;  <b><u> Privacy Policy</u></b> .</string>
+</resources>
+
